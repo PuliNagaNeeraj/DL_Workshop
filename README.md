@@ -52,7 +52,6 @@ Standardize using:
 
 𝑥𝑛𝑜𝑟𝑚=𝑥−mean/std
 
-​
 
 Prepare Target Labels
 
