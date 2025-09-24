@@ -51,7 +51,8 @@ Compute mean and standard deviation for each continuous column.
 Standardize using:
 
 𝑥𝑛𝑜𝑟𝑚=𝑥−mean/std
-	​
+
+​
 Prepare Target Labels
 
 Convert income:
